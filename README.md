@@ -2,7 +2,7 @@
 
 ## UniteJS Operations
 
-* unite configure --packageName=rreact-typescript --title="React TypeScript" --profile=ReactTypeScript --outputDirectory=./app
+* unite configure --packageName=react-typescript --title="React TypeScript" --profile=ReactTypeScript --outputDirectory=./app
 * unite generate --type=class --name=MyClass --outputDirectory=./app
 * unite generate --type=enum --name=MyEnum --outputDirectory=./app
 * unite generate --type=component --name=MyComponent --outputDirectory=./app
